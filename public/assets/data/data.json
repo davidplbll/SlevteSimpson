@@ -1,0 +1,36 @@
+[
+
+
+  {
+    "quote": "Hi, Super Nintendo Chalmers!",
+    "character": "Bart",
+    "image": "https://i.pinimg.com/originals/dd/1f/32/dd1f323f313cf721f8fd2a2857116059.gif",
+    "characterDirection": "Left"
+  },
+
+  {
+    "quote": "My eyes! The goggles do nothing!",
+    "character": "Lisa",
+    "image": "https://media1.tenor.com/images/822d255f669d74799f13f36339f86358/tenor.gif?itemid=9188955",
+    "characterDirection": "Right"
+  },
+  {
+    "quote": "My eyes! The goggles do nothing!",
+    "character": "Homero",
+    "image": "https://www.sopitas.com/wp-content/uploads/2016/05/homero.gif",
+    "characterDirection": "Right"
+  },
+
+  {
+    "quote": "Last night's 'Itchy and Scratchy' was, without a doubt, the worst episode ever. Rest assured that I was on the Internet within minutes, registering my disgust throughout the world.",
+    "character": "MArge",
+    "image": "https://media2.giphy.com/media/3orieLgkzLg1JSppL2/source.gif",
+    "characterDirection": "Right"
+  },
+  {
+    "quote": "Doughnuts? I told you I don't like ethnic food",
+    "character": "Maggie",
+    "image": "https://pa1.narvii.com/6324/d70066d939bc5030a160189cafa29541cbaca83d_00.gif",
+    "characterDirection": "Right"
+  }
+]
